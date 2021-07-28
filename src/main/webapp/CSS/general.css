@@ -1,0 +1,72 @@
+
+body
+{
+    text-align: center;
+    background-color: rgb(219, 219, 219);
+}
+
+h2
+{
+    width: 50%;
+    height: 30%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    font-size: xx-large;
+}
+
+input
+{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+header 
+{
+    text-align: right;
+    height: 50px;
+}
+
+header > a
+{
+    margin-right: 80px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+table
+{
+    width: 40%;
+    margin: auto;
+    font-size: 18px;
+}
+
+table:first-child
+{
+    width: 20%;
+}
+
+td 
+{
+    padding: 10px 5px;
+    border: 1px solid black;
+}
+
+a, a:hover, a:visited, a:active 
+{
+    color: inherit;
+    text-decoration: none;
+}
+
+.button
+{
+    border: none;
+}
+
+#headerrow > td
+{
+    font-weight: bold;
+    text-decoration: underline;
+}
+

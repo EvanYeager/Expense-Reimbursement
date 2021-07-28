@@ -1,0 +1,26 @@
+form
+{
+    width: 600px;
+    margin: auto;
+    height: 70%;
+    background-color: rgb(72, 172, 105);
+    padding: 100px 50px;
+}
+
+#passwordbutton
+{
+    float: right;
+    margin: 20px;
+    margin-top: 0;
+    padding: 5px;
+    font-size: 11px;
+    background-color: rgb(17, 113, 39);
+    color: black;
+}
+
+
+#loginbutton
+{
+    background-color: rgb(45, 132, 158);
+    padding: 5px;
+}
